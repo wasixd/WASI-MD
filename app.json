@@ -1,43 +1,43 @@
 {
-  "name": "Venocyber-md",
-  "description": "Hi there, I am Venocyber Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t i am from tz 🇹🇿 who brings you into one chuddy buddy now you're all in one chuddy buddy enjoy Incase of Any Problem Whatsapp me on: +255698101622",
-  "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
-  "keywords": ["whatsappbot", "VenocyberMd", "Venocyber Md bot", "Venocyber-Md", "VenocyberMdWhatsaooBot", "VenocyberWaBot","VenocyberMD","Venocyber Md Whatsapp Bot","multi device"],
+  "name": "Wasi-md",
+  "description": "Hi there, I am wasi Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.",
+  "logo": "https://telegra.ph/file/da95ed969f943e4d61ca8.jpg",
+  "keywords": ["whatsappbot", "wasi tech", "wasi Md bot", "wasi md", "wasi tech", "wasi Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴛᴇᴄʜ😘",
-      "required" :true
+      "value": "WASI SER",
+      "required" : false 
     },   
     
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable automatic group WELCOME ",
       "value": "false",
-      "required" :true
+      "required" :false 
     },
      
     "GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable automatic group GOODBYE ",
       "value": "false",
-      "required" :true
+      "required" :false 
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
-      "required" :true,    
-      "value": "𝛁𝚵𝚴𝚯𝐂𝐘𝚩𝚵𝚪 𝚳𝐃"
+      "required" :false ,    
+      "value": "WASI MD"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg"
+      "value": "https://telegra.ph/file/da95ed969f943e4d61ca8.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :true,    
-      "value": "Africa/Dodoma"
+      "value": "Karachi/Pakistan"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responding (After deployement!)",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "255698101622"
+      "value": "923135673658"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -132,12 +132,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ 👋",
+      "value": "wasi👋",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝛁𝚵𝚴𝚯𝐂𝐘𝚩𝚵𝚪 𝚳𝐃🇹🇿",
+      "value": "Md",
       "required": true 
     }
   }, 
