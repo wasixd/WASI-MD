@@ -37,7 +37,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md"><b>Venocyber-md</b></a> Support Deploy On...
+  <a href="https://github.com/Kingjux/Venocyber-md"><b>WASI-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
