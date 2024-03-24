@@ -93,10 +93,10 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 4.  ***Click [`FORK`](https://github.com/Kingjux/Venocyber-md/fork) and `Star ⭐ Repository` for Courage.***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/kingjux/Venocyber-Md)***
+7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/wasixd/WASI-MD)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/wasixd/WASI-MD-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923135673658env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/18a6be1692b8f5cd5b6e7.jpg)***
 
 ##
 ---
@@ -105,11 +105,11 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/MSSH2UWWOQBDL1)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/THZ3I25BYZM2E1)
 
 
 ### I Am
-- [Venocyber Tech](https://github.com/kingjux) 
+- [wasi Tech](https://github.com/Itxxwasi) 
 
 
 
@@ -118,9 +118,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *Venocyber-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *WASI MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Venocyber-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/kingjux/Venocyber-md)
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+venocyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Kingjux)
+[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/wasixd)
