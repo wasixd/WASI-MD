@@ -1,33 +1,33 @@
-<h1 align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 </h1> 
-<p align="center"> Introducing 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 </h1> 
+<p align="center"> Introducing 𝘄𝗮𝘀𝗶 𝗻𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 [![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+venocyber+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
 
 
 <p align="center">
   <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg">
+    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/18a6be1692b8f5cd5b6e7.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-  <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/+923135673658?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
-    <img alt="Venocybertech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="wasi-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
+    <img alt="wasitech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingjux}/count.svg" alt="Venocyber-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="WASI-MD :: Visitor's Count" /></p>
 ---
 
 
 
 
-<p align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 uses
+<p align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -57,16 +57,15 @@
 
 
 
-## Bot Games
+## 𝗕𝗢𝗧 𝗚𝗔𝗠𝗘𝗦
 ---
-1. ***Connect Four Game.***
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game.***
-4.  ***Word chain Game(wcg).***
-5.  ***Hidden Card Game.***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game.***
-8.  ***Capital of City Finding.***
+1. ***𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗙𝗢𝗨𝗥 𝗚𝗔𝗠𝗘.***
+2.  ***𝗧𝗜𝗖 𝗧𝗔𝗖 𝗧𝗢𝗘.***
+3.  ***𝗡𝗨𝗠𝗕𝗘𝗥 𝗚𝗨𝗦𝗦𝗜𝗡𝗚 𝗚𝗔𝗠𝗘.***
+4.  ***𝗪𝗢𝗥𝗗 𝗖𝗛𝗔𝗜𝗡 𝗚𝗔𝗠𝗘.***
+5.  ***𝗛𝗜𝗗𝗗𝗘𝗡 𝗖𝗔𝗥𝗗 𝗚𝗔𝗠𝗘***
+6.  ***𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗗𝗜𝗖𝗘.***
+7.  
 ##
 
 
@@ -76,7 +75,7 @@
 
 <h3>Venocyber-MD Stats</h3>
 
-![Venocyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
+![Venocyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
 
 
     
