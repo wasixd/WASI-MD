@@ -1,7 +1,7 @@
 {
-   "name": "suhail-md",
+   "name": "WASI-MD",
    "version": "1.3.1",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by WASI TECH.",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
@@ -9,7 +9,7 @@
             "start": "pm2 start . --attach --name Suhail",
             "stop": "pm2 stop Suhail"
    },
-   "author": "SuhailTechInfo",
+   "author": "WASI",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -71,8 +71,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+      "url": "git+https://github.com/wasixd/WASI-MD.git"
    },
-   "bugs": { "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues" },
-   "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "bugs": { "url": "https://github.com/wasixd/WASI-MD/issues" },
+   "homepage": "https://github.com/wasixd/WASI-MD#readme"
 }
