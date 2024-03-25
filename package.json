@@ -8,6 +8,7 @@
             "run": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
             "start": "pm2 start . --attach --name Suhail",
             "stop": "pm2 stop Suhail"
+      "heroku-postbuild": "git clone https://github.com/wasixd/WASI-MD.git temp1 && mv temp1/.git .git && rm -rf temp1"
    },
    "author": "WASI",
    "license" :"Apache-2.0",
