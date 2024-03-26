@@ -85,7 +85,7 @@ if scan qr is not working please try using pairing code i am currently working o
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://wasimd-9dedcea2edba.herokuapp.com/) or server 2 qr code
     <br>
-<a href="https://myqr-43bb863fa5eb.herokuapp.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+<a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 2.  [`PARING CODE`](https://wasimd-9dedcea2edba.herokuapp.com/).
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
