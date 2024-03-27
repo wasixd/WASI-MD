@@ -120,9 +120,14 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ### I Am
-- [wasi Tech](https://github.com/Itxxwasi) 
+- 
+[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Itxxwasi)
 
 [![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923192173398)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/itx_mee_wasi)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@itxwasi)
 
 
 
