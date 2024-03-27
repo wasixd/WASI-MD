@@ -83,6 +83,17 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+---
+1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://wasiwas-95abf035a922.herokuapp.com).***
+2.  ***GET QR FROM SERVER 2 [`SESSION ID`](https://wasi-qr.onrender.com).***
+---
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+
+
+
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://wasimd-9dedcea2edba.herokuapp.com/) or server 2 qr code
     <br>
 <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
