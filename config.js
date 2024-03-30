@@ -21,7 +21,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Dodoma";
 global.github=process.env.GITHUB|| "https://github.com/wasixd/WASI-MD";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a41fc42eacdc2e56fcecd.jpg,https://telegra.ph/file/4f1a4bfff2adb63c03890.jpg,https://telegra.ph/file/20264127cdd6499e7643e.jpg,https://telegra.ph/file/658f0e0fc16cb2f4b7438.jpg,https://telegra.ph/file/b39e1ea456fba9399ee22.jpghttps://telegra.ph/file/d8227b1fabccdde1ff1b7.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -48,14 +48,14 @@ global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "255698101622,255xxxxxxxx";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "923135673658,923192173398";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "923135673658,923192173398";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "255698101622,255xxxxxxxx";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "923135673658,923192173398";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://myqr-43bb863fa5eb.herokuapp.com/";
