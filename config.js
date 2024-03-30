@@ -21,7 +21,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Dodoma";
 global.github=process.env.GITHUB|| "https://github.com/wasixd/WASI-MD";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a41fc42eacdc2e56fcecd.jpg,https://telegra.ph/file/4f1a4bfff2adb63c03890.jpg,https://telegra.ph/file/20264127cdd6499e7643e.jpg,https://telegra.ph/file/658f0e0fc16cb2f4b7438.jpg,https://telegra.ph/file/b39e1ea456fba9399ee22.jpghttps://telegra.ph/file/d8227b1fabccdde1ff1b7.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a41fc42eacdc2e56fcecd.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
