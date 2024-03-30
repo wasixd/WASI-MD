@@ -39,7 +39,7 @@ global.gdbye = process.env.GOODBYE || "false";
 global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable WELCOME 
 
 global.warncount = process.env.WARN_COUNT || 5,
-global.disablepm = process.env.DISABLE_PM || "true",
+global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
 global.userImages= process.env.USER_IMAGES|| "text",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
