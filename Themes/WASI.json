@@ -33,7 +33,7 @@
             "antlink": "Link Detected.\n*Good Bye Rouge pirate*",
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by WASI*",
             "mention": " Please mention My Owner",
-            "title": "𝓦𝓐𝓢𝓘 𝓜𝓓",
+            "title": "𝗪𝗔𝗦𝗜 𝗠𝗗🙆‍♂️",
             "footer": "wasi \n www.youtube.com/c/wasitech1",
             "by": "Made by: wasi",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
@@ -41,13 +41,13 @@
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "𝓞𝓝𝓛𝓨 𝓐𝓓𝓜𝓘𝓢 𝓠𝓤𝓐𝓡𝓨 𝓜𝓐𝓓𝓔 𝓑𝓨 𝓦𝓐𝓢𝓘⚠️!",
-            "botAdmin": "𝓑𝓐𝓑𝓔 𝓖𝓘𝓥𝓔 𝓜𝓔 𝓐𝓓𝓜𝓘𝓝 𝓡𝓞𝓛𝓔 𝓕𝓘𝓡𝓢𝓣❗",
-            "owner": "𝓣𝓗𝓘𝓢 𝓒𝓞𝓜𝓜𝓐𝓝𝓓 𝓘𝓢 𝓞𝓝𝓛𝓨 𝓕𝓞𝓡 𝓜𝓨 𝓗𝓔𝓡𝓞 ⚠️",
-            "group": "𝓣𝓗𝓘𝓢 𝓕𝓔𝓐𝓣𝓤𝓡𝓔𝓢 𝓞𝓝𝓛𝓨 𝓕𝓞𝓡 𝓖𝓡𝓞𝓤𝓟𝓢 ❗",
-            "private": "𝓞𝓝𝓛𝓨 𝓜𝓨 𝓗𝓔𝓡𝓞 𝓒𝓐𝓝 𝓤𝓢𝓔 𝓣𝓗𝓘𝓢 𝓒𝓞𝓜𝓜𝓐𝓝𝓓⚠️",
-            "bot": "ＳＨＩＴ ＵＰ ＯＮＬＹ ＭＹ ＨＥＲＯ ＣＡＮ ＣＯＮＴＲＯＬＥ ＭＥ⚠️",
-            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ✅"
+            "admin": "𝙾𝙽𝙻𝚈 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙲𝙼𝙳🙆‍♂️⚠️!",
+            "botAdmin": "𝚢𝚘𝚞 𝚊𝚊𝚛𝚎 𝚗𝚘𝚝 𝚊𝚍𝚖𝚒𝚗 𝚘𝚔 🙆‍♂️❗",
+            "owner": "𝚃𝙷𝙸𝚂 𝙸𝚂 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙼𝚈 𝙷𝙴𝚁𝙾 🙆‍♂️⚠️",
+            "group": "𝙾𝙾𝙿𝚂 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙸𝚂 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 𝙳𝙴𝙰𝚁 🙆‍♂️❗",
+            "private": "𝙾𝙽𝙻𝚈 𝙼𝚈 𝙷𝙴𝚁𝙾 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙼𝙰𝙽𝙳 𝙿𝙻𝚉 𝚂𝚃𝙰𝚈 𝙰𝚆𝙰𝚈🙆‍♂️⚠️ ",
+            "bot": "ＳＨＩＴ ＵＰ ＯＮＬＹ ＭＹ ＨＥＲＯ ＣＡＮ ＣＯＮＴＲＯＬＥ ＭＥ🙆‍♂️⚠️",
+            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ🙆‍♂️"
         },
         "error": {
             "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
