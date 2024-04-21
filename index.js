@@ -1,4 +1,4 @@
-/**const bot = require(__dirname + '/lib/smd')
+const bot = require(__dirname + '/lib/smd')
 const { VERSION } = require(__dirname + '/config')
 
 const start = async () => {
@@ -14,4 +14,4 @@ const start = async () => {
   }
 }
 start();
-**/
+
