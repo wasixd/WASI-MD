@@ -1,4 +1,4 @@
-## DON'T DEPLOY UNTIL NEXT UPDATE 
+
 
 <h1 align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 </h1> 
 <p align="center"> Introducing 𝘄𝗮𝘀𝗶 𝗻𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
