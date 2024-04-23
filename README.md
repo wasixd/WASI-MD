@@ -88,8 +88,8 @@ if scan qr is not working please try using pairing code i am currently working o
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ---
-1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://wasiwas-95abf035a922.herokuapp.com).***
-2.  ***GET QR FROM SERVER 2 [`SESSION ID`](https://wasi-qr.onrender.com).***
+1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://wasi-md-session-94e1490060bc.herokuapp.com/).***
+2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://wasi-md-session-94e1490060bc.herokuapp.com/).***
 ---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
