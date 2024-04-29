@@ -73,6 +73,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
+             alias: ["wasi","waso"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,
