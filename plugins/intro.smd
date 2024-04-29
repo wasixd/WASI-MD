@@ -50,21 +50,23 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https:/github.com/mouricedevs/Gifted-Md' // Source URL
-const number = '254728782591'
-var name = ' Gifted Tech'
+var surl = 'https://github.com/wasixd/WASI-MD' // Source URL
+const number = '923135673658'
+var name = ' 𝕎𝔸𝕊𝕀 𝕋𝔼ℂℍ'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/54efddccf41281ad7ec51.jpg'
+var image = 'https://telegra.ph/file/2c30fa9e6f61ef8ba03a2.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : ɢɪғᴛᴇᴅ ᴛᴇᴄʜ
-│ Place       : Eldoret, Kenya
-│ Gender    :  ᴍᴀʟᴇ
+│ Name      : 𝐖𝐀𝐒𝐈 
+│ Place       : 𝐈𝐒𝐋𝐀𝐌𝐀𝐁𝐀𝐃, 𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍
+│ Gender    :  𝐌𝐀𝐋𝐄
 │ Age          : 20
-│ Phone     : wa.me/254728782591
-│ Youtube   : youtube.com/@giftedtechnexus
-│ Status     : Web Dev, App Dev, Software Dev.
+│ Phone     : wa.me/923135673658
+│ Youtube   : youtube.com/@wasitech1
+│ Status     : 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
+
+
 
 
 
